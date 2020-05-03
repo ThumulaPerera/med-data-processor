@@ -1,0 +1,6 @@
+record_id,user_name,personal_details,sickeness_details,drug_prescriptions,lab_test_prescriptions
+1,Areeb Davison,Male. 22 yrs. T.P. 077 1234566,convulsion,Phenobarbitone 20mg/kg 8 hourly,Serum glucose level. Serum electrolyte. CT scan
+3,Areeb Davison,22 yrs. male. ,SHOCK,Ampicillin 20mg/kg/dose 6 hourly for 7-10 days. Ceftriaxone 50–80 mg/kg/dose immediately as a single dose.,
+4,Ozan Bostock,age 55. male. retired army officer, Amebiasis,Metronidazole 800mg (O) 8hourly for 5- 10 days. Secnidazole (O) 2g single dose.,
+5,Taylor Cline,30 yrs. female,Hypertension,LosacarH 50 mg daily,ecg. echo-cardiogram
+7,Grover Mccallum,male. 43 yrs,Severe pneumonia,Benzyl Penicillin 50 every 6 hours. : Amoxicillin 15 mg/kg 8 hourly for 7 days. ,chest x-ray

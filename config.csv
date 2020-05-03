@@ -1,0 +1,9 @@
+user_name,password,user_type,privilege_level
+Areeb Davison,bed4b8d81e6fad765c00f4cd108c4fd8,patient,patient
+Stephan Rennie,022e3782314ae7c870f9d2c2919d2b31,hospital staff,lab staff
+Giorgia Haley,35684d6c86f08cb944009a663f4eefba,hospital staff,pharmacy staff
+Callen Jones,041e9d78c51f78c25dd8c57bc58e4422,hospital staff,nurse
+Humairaa Vaughn,e3e91a6e92d55b7cde59c5cae87637c9,hospital staff,doctor
+Ozan Bostock,a3723386c065359828e19a712ec7dcfd,patient,patient
+Taylor Cline,56c052be7cc218dbc1a4092a9db64c50,patient,patient
+Grover Mccallum,6bfba29ea353a43dabcabaf1686f79ab,patient,patient
